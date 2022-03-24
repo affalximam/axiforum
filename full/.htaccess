@@ -1,0 +1,10 @@
+ErrorDocument 401 /php/401-lompat.php
+ErrorDocument 402 /php/402-lompat.php
+ErrorDocument 403 /php/403-lompat.php
+ErrorDocument 404 /php/404-lompat.php
+Options -Indexes
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteCond %{REQUEST_URI} !/$
+RewriteRule ^(.*)$ $1\.php
