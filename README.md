@@ -7,6 +7,8 @@ There are two Folder :
 - Full
   (Please use webserver xampp to running php code)
 
+View :
+https://affalximam.github.io/axiforum/
+
 license ?
 free license
-  
