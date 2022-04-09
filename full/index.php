@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>AXI FORUM</title>
 
-    <meta name="description" content="AXI FORUM">
+    <meta name="description" content="Template by Affal">
 
     <!-- icon -->
     <link rel="shortcut icon" href="assens/images/logo-1.png" type="image/x-icon">
